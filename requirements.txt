@@ -2,4 +2,3 @@
 pdf2image
 python-stdnum
 pyzbar
-rfc6266_parser
